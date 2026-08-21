@@ -48,4 +48,4 @@ Actual: Second command fails with cross-project access violations
 ## Related
 
 - Gradle Isolated Projects: https://docs.gradle.org/9.7.0/userguide/isolated_projects.html
-- Issue filed with Quarkus: (link to GitHub issue)
+- Issue filed with Quarkus: https://github.com/quarkusio/quarkus/issues/56145
