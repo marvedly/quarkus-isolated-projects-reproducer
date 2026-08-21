@@ -41,7 +41,7 @@ Actual: Second command fails with cross-project access violations
 ## Environment
 
 - **Gradle**: 9.7.0
-- **Quarkus**: 3.36.0 (or later)
+- **Quarkus**: 3.39.0 (or later)
 - **Java**: 25+
 - **Kotlin**: 2.4.0
 
